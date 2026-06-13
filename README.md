@@ -9,7 +9,7 @@ Passionate about transforming data into meaningful insights and building intelli
 * **Programming Languages:** Python
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
 * **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-* **Databases:**PostgreSQL, MongoDB
+* **Databases:** PostgreSQL, MongoDB
 * **Cloud & Tools:** AWS, Google Cloud, Git, GitHub, Jupyter Notebook
 
 ## 🌐 Socials:
